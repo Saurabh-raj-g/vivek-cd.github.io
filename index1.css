@@ -1,0 +1,61 @@
+.row-content{
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+}
+.footer{
+  padding: 30px 0px;
+  background-color: palevioletred;
+}
+.jumbotron{
+  margin:opx auto;
+  padding: 70px opx;
+  
+}
+.row-header{
+  margin: 0px auto;
+  padding: 50px 0px;
+}
+.row-form{
+  margin: 0px auto;
+  padding: 50px 0px;
+}
+.carousel {
+  background:#512DA8;
+}
+
+.carousel-item {
+height: 300px;
+}
+
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+#carouselButton {
+  right:0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
+.modal-header{
+  background:#512DA8;
+  color:  floralwhite;
+
+}
+.modal-header close{
+ 
+  background-color:  floralwhite;
+
+}
+.modal-body{
+  
+  background-color: rgb(175, 238, 183);
+}
+
+#cancel {
+  color:floralwhite;
+}
+/*# sourceMappingURL=index1.css.map */
